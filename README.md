@@ -3,7 +3,7 @@
 # 🚀 Portable Offline AI from a USB Pendrive
 
 **Created by: Anunay Srivastava**  
-*Reference Document: "Run Offline AI from a USB Pendrive_2.docx"*
+*Reference Document: "Run Offline AI from a USB Pendrive"*
 
 Welcome to the Portable Offline AI repository! This project provides everything you need to set up, carry, and run a powerful Artificial Intelligence assistant directly from a USB flash drive.
 
